@@ -9,3 +9,4 @@ GitHub repository for online/virtual results for Joseph Nied's poster at the Ame
 
 # AGU 2023 Poster:
 
+<img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/POSTER/Joseph_Nied-AGU%2BMISR-2023.png" alt="AGU 2023 Poster - Joseph Nied">
