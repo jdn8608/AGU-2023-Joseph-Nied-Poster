@@ -3,9 +3,11 @@ GitHub repository for online/virtual results for Joseph Nied's poster at the Ame
 
 # MISR Training Movie:
 <p align="center">
-<img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/Example-1.gif" alt="MISR Example 1 Training" width="400" height="400" loop=1>
-<img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/Example-2.gif" alt="MISR Example 2 Training" width="400" height="400" loop=1>
-<img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/Example-3.gif" alt="MISR Example 3 Training" width="400" height="400" loop=1>
+<img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/Example-1.gif" alt="MISR Example 1 Training" width="400" height="400" loop=1><img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/Example-1-RCCM.png" alt="MISR Example 1 RCCM" width="400" height="400">
+
+<img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/Example-2.gif" alt="MISR Example 2 Training" width="400" height="400" loop=1><img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/Example-2-RCCM.png" alt="MISR Example 2 RCCM" width="400" height="400">
+
+<img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/Example-3.gif" alt="MISR Example 3 Training" width="400" height="400" loop=1><img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/Example-3-RCCM.png" alt="MISR Example 3 RCCM" width="400" height="400">
 </p>
 
 # AGU 2023 Poster:
