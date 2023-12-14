@@ -15,19 +15,19 @@ Animations are depicted in the left column for our best U-Net model that uses Bi
 Example 1:  
 
 <p align="center">
-<img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/MISR-Example-1.gif" alt="MISR Example 1 Training" width="400" height="400" loop=1><img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/Example-1-RCCM.png" alt="MISR Example 1 RCCM" width="400" height="400">  
+<img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/MISR-Example-1.gif" alt="MISR Example 1 Training" width="400" height="400" loop=infinite><img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/Example-1-RCCM.png" alt="MISR Example 1 RCCM" width="400" height="400">  
 </p>
 
 Example 2:  
 
 <p align="center">
-<img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/MISR-Example-2.gif" alt="MISR Example 2 Training" width="400" height="400" loop=1><img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/Example-2-RCCM.png" alt="MISR Example 2 RCCM" width="400" height="400">  
+<img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/MISR-Example-2.gif" alt="MISR Example 2 Training" width="400" height="400" loop=infinite><img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/Example-2-RCCM.png" alt="MISR Example 2 RCCM" width="400" height="400">  
 </p>
 
 Example 3:  
 
 <p align="center">
-<img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/MISR-Example-3.gif" alt="MISR Example 3 Training" width="400" height="400" loop=1><img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/Example-3-RCCM.png" alt="MISR Example 3 RCCM" width="400" height="400">  
+<img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/MISR-Example-3.gif" alt="MISR Example 3 Training" width="400" height="400" loop=infinite><img src="https://github.com/jdn8608/AGU-2023-Joseph-Nied-Poster/blob/main/MISR/Example-3-RCCM.png" alt="MISR Example 3 RCCM" width="400" height="400">  
 </p>
 
 # Bi-Tempered Logistic Loss Visualizations on MODIS Imagery
